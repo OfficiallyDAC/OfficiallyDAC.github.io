@@ -28,9 +28,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
 
+--- 
+date:   2023-11-02 14:57:34 +0100 | categories: social
+
 ---
-layout: post
-title:  "Welcome to my GitHub Page!"
-date:   2023-11-02 14:57:34 +0100
-categories: init
----
+
+
+Hello! This GitHub page is intended to provide you with an overview of my research activities, both in the academic and artistic fields.
+
+You'll find additional information about me on this page, as well as links to my social profiles.
+
+I will do my best to keep you updated with the most recent news through dedicated posts.
