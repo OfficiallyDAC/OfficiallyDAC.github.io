@@ -14,8 +14,8 @@ collections:
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
-title: ["Welcome to my GitHub Page!"]
-description: ["A quick overview of my research activity"] 
+title: [Welcome to my GitHub Page!]
+description: [A quick overview of my research activity] 
 
 # Handling Reading
 safe                : false
@@ -34,7 +34,8 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : ["jekyll-remote-theme"]
+plugins             : 
+- jekyll-remote-theme 
 
 # Conversion
 markdown            : kramdown
