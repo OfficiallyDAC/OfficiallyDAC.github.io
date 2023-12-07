@@ -29,9 +29,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
 
 --- 
-layout: post
-title:  "New publication in TMLR."
-date:   2023-11-15 9:54:00 +0100 | categories: publications
+layout: post | title:  "New publication in TMLR." | date:   2023-11-15 9:54:00 +0100 | categories: publications
+
 ---
 
 Super happy to share that the paper [_Learning Multiscale Non-stationary Causal Structures_](https://openreview.net/pdf?id=SQnPE63jtA) has been published in Transactions on Machine Learning Research. This article, branded CENTAI, results from an exciting collaboration with Gianmarco De Francisci Morales, Paolo Bajardi, and my PhD advisor Francesco Bonchi.
