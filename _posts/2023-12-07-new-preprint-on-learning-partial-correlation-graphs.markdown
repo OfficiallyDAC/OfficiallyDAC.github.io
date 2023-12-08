@@ -33,9 +33,8 @@ layout: post | title:  "Learning Multi-Frequency Partial Correlation Graphs: Pre
 
 ---
 
-Check out the preprint version of _Learning Multi-Frequency Partial Correlation Graphs_ [here](https://arxiv.org/abs/2311.15756)! This is a joint work with  my PhD Advisor and Professors from the signal processing research group of the Department of Information Engineering, Electronics, and Telecommunications (DIET) of Sapienza University of Rome.
+Check out [here](https://arxiv.org/abs/2311.15756) the preprint version of _Learning Multi-Frequency Partial Correlation Graphs_! It's a joint work with  my PhD Advisor and Professors from the signal processing research group of the Department of Information Engineering, Electronics, and Telecommunications (DIET) of Sapienza University of Rome.
 
-Key features of our work:
 * __Motivation__: In many applications it is pivotal to discriminate partial correlations occurring at different frequency bands. State-of-the-art methods fail in this discrimination.
 * __Our contribution__: 
     *  Propose the learning of a multi-frequency Partial Correlation Graph, where different layers correspond to different frequency bands, and where partial correlations can possibly occur only over some frequency bands.
