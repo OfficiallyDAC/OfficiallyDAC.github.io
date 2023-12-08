@@ -38,7 +38,7 @@ Check out [here](https://arxiv.org/abs/2311.15756) the preprint version of _Lear
 * __Motivation__: In many applications it is pivotal to discriminate partial correlations occurring at different frequency bands. State-of-the-art methods fail in this discrimination.
 * __Our contribution__: 
     *  Propose the learning of a multi-frequency Partial Correlation Graph, where different layers correspond to different frequency bands, and where partial correlations can possibly occur only over some frequency bands.
-    * Formulate and solve two nonconvex learning problem to accomplish this task. Our methods do not rely on any specific statistical model.
+    * Formulate and solve two nonconvex learning problems to accomplish this task. Our methods do not rely on any specific statistical model.
     * We jointly learn the cross-spectral density matrices and their inverses.
 * __Results__:
     * Outperform baseline methods in this task.
