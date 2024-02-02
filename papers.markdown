@@ -4,7 +4,10 @@ title: Papers
 permalink: /papers/
 ---
 
-# Accepted
+# Accepted/Published
+__[2024]__
+* D'Acunto, G., Bonchi, F., De Francisci Morales, G., & Giovanni Petri (2024, January). Extracting the Multiscale Causal Backbone of Brain Dynamics. To be presented in the _3rd Conference on Causal Learning and Reasoning (CLeaR 2024, April 1-3, Los Angeles, CA)_. To be published in _PMLR_ [[preprint](https://arxiv.org/pdf/2311.00118.pdf)]
+
 __[2023]__
 * D'Acunto, G., De Francisci Morales, G., Bajardi, P., & Bonchi, F. (2023, October). Learning Multiscale Non-stationary Causal Structures. In _Transactions on Machine Learning Research_. [[paper](https://openreview.net/pdf?id=SQnPE63jtA)]
 * D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2023, October). Multiscale Causal Structure Learning. In _Transactions on Machine Learning Research_. [[paper](https://openreview.net/pdf?id=Ub6XILEF9x)]
@@ -16,9 +19,10 @@ __[2021]__
 __[2023]__
 * D'Acunto, G., Di Lorenzo, P., Bonchi, F., Sardellitti, S., & Barbarossa, S. (2023, November). Learning Multi-Frequency Partial Correlation Graphs. [[preprint](https://arxiv.org/pdf/2311.15756.pdf)]
 
+<!--__[2023]__
 * D'Acunto, G., Bonchi, F., De Francisci Morales, G., & Giovanni Petri (2023, November). Extracting the Multiscale Causal Backbone of Brain Dynamics. [[preprint](https://arxiv.org/pdf/2311.00118.pdf)]
 
-<!-- __[2022]__
+ __[2022]__
 * D'Acunto, G., De Francisci Morales, G., Bajardi, P., & Bonchi, F. (2022, August). Learning Multiscale Non-stationary Causal Structures.
 * D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2022, August). Multiscale Causal Structure Learning.
 
