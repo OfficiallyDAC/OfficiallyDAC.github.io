@@ -23,7 +23,7 @@ I earned my Bachelor's degree in Theoretical Physics from Sapienza University in
 
 From 2017 to 2019, I was a Financial Data Scientist with Fondaco SGR, Turin, Italy, and from 2020 to 2022, I was a Junior Researcher with the Algorithmic and Data Analytics Lab at the ISI Foundation, Turin.
 
-Since 2022, I have been conducting research activities in the Machine Learning Foundation team at [CENTAI](https://centai.eu/home) in Turin, led by [Fabio Vitale](https://dblp.org/pid/43/1187.html). Lastly, since 2018, I have been teaching the course "Financial Applications of Unsupervised Machine Learning" in the [Master in Finance and Risk Management](https://www.carloalberto.org/education/master-in-finance/) at the Collegio Carlo Alberto in Turin.
+Since 2022, I have been conducting research activities in the Machine Learning Foundation team at CENTAI in Turin, led by [Fabio Vitale](https://dblp.org/pid/43/1187.html). Lastly, since 2018, I have been teaching the course "Financial Applications of Unsupervised Machine Learning" in the [Master in Finance and Risk Management](https://www.carloalberto.org/education/master-in-finance/) at the Collegio Carlo Alberto in Turin.
 
 In the artistic realm, my research focuses on topics of strong social relevance, such as the identity crisis of my generation and the newer generations, the bonds in today's society, the deprivation of creativity imposed on the younger generations, and the perceived gap between the real and the virtual.
 
