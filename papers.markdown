@@ -6,18 +6,21 @@ permalink: /papers/
 
 # Accepted/Published
 __[2024]__
+* D'Acunto, G., Di Lorenzo, P., Bonchi, F., Sardellitti, S., & Barbarossa, S. (2024, July). Learning Multi-Frequency Partial Correlation Graphs. In _IEEE Transactions on Signal Processing_, vol. 72, pp. 2953-2969, 2024, doi: 10.1109/TSP.2024.3401072. [[paper](https://ieeexplore.ieee.org/document/10531218)]
+
 * D'Acunto, G., Bonchi, F., De Francisci Morales, G., & Giovanni Petri (2024, January). Extracting the Multiscale Causal Backbone of Brain Dynamics. To be presented in the _3rd Conference on Causal Learning and Reasoning (CLeaR 2024, April 1-3, Los Angeles, CA)_. To be published in _PMLR_ [[preprint](https://arxiv.org/pdf/2311.00118.pdf)]
 
 __[2023]__
 * D'Acunto, G., De Francisci Morales, G., Bajardi, P., & Bonchi, F. (2023, October). Learning Multiscale Non-stationary Causal Structures. In _Transactions on Machine Learning Research_. [[paper](https://openreview.net/pdf?id=SQnPE63jtA)]
+
 * D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2023, October). Multiscale Causal Structure Learning. In _Transactions on Machine Learning Research_. [[paper](https://openreview.net/pdf?id=Ub6XILEF9x)]
 
 __[2021]__
 * D'Acunto, G., Bajardi, P., Bonchi, F., & De Francisci Morales, G. (2021, November). The evolving causal structure of equity risk factors. In _Proceedings of the Second ACM International Conference on AI in Finance (pp. 1-8)_. [[paper](https://dl.acm.org/doi/pdf/10.1145/3490354.3494370)]
 
 # Submitted 
-__[2023]__
-* D'Acunto, G., Di Lorenzo, P., Bonchi, F., Sardellitti, S., & Barbarossa, S. (2023, November). Learning Multi-Frequency Partial Correlation Graphs. [[preprint](https://arxiv.org/pdf/2311.15756.pdf)]
+<!-- __[2023]__
+* D'Acunto, G., Di Lorenzo, P., Bonchi, F., Sardellitti, S., & Barbarossa, S. (2023, November). Learning Multi-Frequency Partial Correlation Graphs. [[preprint](https://arxiv.org/pdf/2311.15756.pdf)] -->
 
 <!--__[2023]__
 * D'Acunto, G., Bonchi, F., De Francisci Morales, G., & Giovanni Petri (2023, November). Extracting the Multiscale Causal Backbone of Brain Dynamics. [[preprint](https://arxiv.org/pdf/2311.00118.pdf)]
