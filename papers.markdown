@@ -20,7 +20,9 @@ __[2021]__
 
 # Submitted
 __[2025]__
-D'Acunto, G., Zennaro, F. M., Felekis, Y., & Di Lorenzo, P. (2025). Causal Abstraction Learning based on the Semantic Embedding Principle. [[preprint](https://arxiv.org/pdf/2502.00407.pdf)]
+* D'Acunto, G., Battiloro, C. (2025). The Relativity of Causal Knowledge. [[preprint](https://arxiv.org/pdf/2503.11718.pdf)]
+
+* D'Acunto, G., Zennaro, F. M., Felekis, Y., & Di Lorenzo, P. (2025). Causal Abstraction Learning based on the Semantic Embedding Principle. [[preprint](https://arxiv.org/pdf/2502.00407.pdf)]
 
 <!-- __[2023]__
 * D'Acunto, G., Di Lorenzo, P., Bonchi, F., Sardellitti, S., & Barbarossa, S. (2023, November). Learning Multi-Frequency Partial Correlation Graphs. [[preprint](https://arxiv.org/pdf/2311.15756.pdf)] -->
