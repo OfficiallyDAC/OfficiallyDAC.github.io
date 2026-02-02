@@ -23,8 +23,23 @@ permalink: /papers/
 __[2021]__
 * <span style="color:grey"> D'Acunto, G., Bajardi, P., Bonchi, F., & De Francisci Morales, G. (2021, July). The evolving causal structure of equity risk factors.</span> -->
 
-# Accepted/Published
+# Technical Reports
 __[2025]__
+* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2025). The Causal Abstraction Network: Theory and Learning. [[preprint](https://arxiv.org/pdf/2509.25236)]
+
+# Accepted/Published
+__[2026]__
+* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Learning Consistent Causal Abstraction Networks. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) 
+
+* Di Nino, L., D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Learning the Structure of Connection Graphs. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) [[paper](https://arxiv.org/pdf/2510.11245?)]
+
+* Marinucci, L., D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Simplicial Gaussian Models: Representation and Inference. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) [[paper](https://arxiv.org/pdf/2510.12983v1)]
+
+__[2025]__
+* Marinucci, L., Di Nino, L., D'Acunto, G., Pandolfo, M. E., Di Lorenzo, P., & Barbarossa, S. (2025). Colored Markov Random Fields for Probabilistic Topological Modeling. To be published on the _Proceedings of 2025 59th Asilomar Conference on Signals, Systems, and Computers_ ([Asilomar](https://www.asilomarsscconf.org/) 2025, October 26-29, Pacific Grove, CA, USA) [[paper](https://arxiv.org/pdf/2512.03727)]
+
+* Grimaldi, E., Pandolfo, M. E., D'Acunto, G., Barbarossa, S., & Di Lorenzo, P. (2025). Learning Network Sheaves for AI-native Semantic Communication. To be published on the _Proceedings of 2025 59th Asilomar Conference on Signals, Systems, and Computers_ ([Asilomar](https://www.asilomarsscconf.org/) 2025, October 26-29, Pacific Grove, CA, USA) [[paper](https://arxiv.org/pdf/2512.03248)]
+
 * D'Acunto, G., Battiloro, C. (2025). The Relativity of Causal Knowledge. In _Proceedings of the 41st Conference on Uncertainty in Artificial Intelligence_ ([UAI](https://www.auai.org/uai2025/) 2025, July 21-25, Rio de Janeiro, Brasil) [[paper](https://arxiv.org/pdf/2503.11718.pdf)]
 
 * D'Acunto, G., Zennaro, F. M., Felekis, Y., & Di Lorenzo, P. (2025). Causal Abstraction Learning based on the Semantic Embedding Principle. In _Proceeding of the 42nd International Conference on Machine Learning_ ([ICML](https://icml.cc/) 2025, July 13-18, Vancouver, Canada) [[paper](https://arxiv.org/pdf/2502.00407.pdf)]
