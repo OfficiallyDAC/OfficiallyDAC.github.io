@@ -29,7 +29,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
 
 --- 
-layout: post | title:  "Accepted papers at Asilomar 2025 and ICASSP 2026." | date:   2026-02-02 22:20:00 +0100 | categories: publications 
+layout: post | title:  "Accepted papers at Asilomar 2025 and ICASSP 2026." | date:   2026-02-01 22:20:00 +0100 | categories: publications 
 
 ---
 Five recent articles accepted at:
