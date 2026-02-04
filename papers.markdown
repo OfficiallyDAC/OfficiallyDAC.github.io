@@ -29,7 +29,7 @@ __[2025]__
 
 # Accepted/Published
 __[2026]__
-* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Learning Consistent Causal Abstraction Networks. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) 
+* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Learning Consistent Causal Abstraction Networks. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) [[paper] (https://arxiv.org/pdf/2602.02623)]
 
 * Di Nino, L., D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2026). Learning the Structure of Connection Graphs. To be published on the _Proceedings of 2026 IEEE International Conference on Acoustics, Speech and Signal Processing_ ([ICASSP](https://2026.ieeeicassp.org/event/about-conference/) 2026, May 4-8, Barcelona, Spain) [[paper](https://arxiv.org/pdf/2510.11245?)]
 
