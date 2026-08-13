@@ -24,8 +24,15 @@ __[2021]__
 * <span style="color:grey"> D'Acunto, G., Bajardi, P., Bonchi, F., & De Francisci Morales, G. (2021, July). The evolving causal structure of equity risk factors.</span> -->
 
 # Technical Reports
+__[2026]__
+* D'Acunto, G., Grimaldi, E., Avino, V., Pandolfo, M. E., Di Nino, L., Barbarossa, S., & Di Lorenzo, P. (2026). Sheaf-Based Federated Representation Learning. [[preprint](https://arxiv.org/pdf/2608.10016)]
+
+* Di Nino, L., D'Acunto, G., Barbarossa, S. & Di Lorenzo, P. (2026). Structured Sheaf Learning of Consistent Connection Graphs. [[preprint](https://arxiv.org/pdf/2608.08710)]
+
+* D'Acunto, G., Di Nino, L., Di Lorenzo, P., & Barbarossa, S. (2026). Sheaf-theoretic Signal Processing on Graphs: Spectral Theory, Filtering, and Sampling. [[preprint](https://arxiv.org/pdf/2608.01318)]
+
 __[2025]__
-* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2025). The Causal Abstraction Network: Theory and Learning. [[preprint](https://arxiv.org/pdf/2509.25236)]
+* D'Acunto, G., Di Lorenzo, P., & Barbarossa, S. (2025). Networks of Causal Abstractions: A Sheaf-theoretic Framework. [[preprint](https://arxiv.org/pdf/2509.25236)]
 
 # Accepted/Published
 __[2026]__
